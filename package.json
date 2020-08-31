@@ -14,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/qlemql/Gulp/issues"
   },
-  "homepage": "https://github.com/qlemql/Gulp#readme"
+  "homepage": "https://github.com/qlemql/Gulp#readme",
+  "dependencies": {}
 }

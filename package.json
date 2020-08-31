@@ -15,5 +15,8 @@
     "url": "https://github.com/qlemql/Gulp/issues"
   },
   "homepage": "https://github.com/qlemql/Gulp#readme",
-  "dependencies": {}
+  "dependencies": {
+    "resolve-url": "^0.2.1",
+    "urix": "^0.1.0"
+  }
 }
